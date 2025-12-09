@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jeet Vasani
 
-AI and ML engineering student focusing on backend systems, automation, and practical machine learning. I build small-scale but production-ready services with clean API design, async execution, and reliable data pipelines.
+AI and ML engineering student focusing on backend systems, automation, and  machine learning. I build small-scale but production-ready services with clean API design, async execution, and reliable data pipelines.
 
 ## About Me
 - Third-year AI and ML student  
