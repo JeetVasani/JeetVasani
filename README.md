@@ -34,12 +34,10 @@ AI and ML engineering student focusing on backend systems, automation, and pract
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-000000?logo=python&logoColor=white)
 
 ### Dev Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
@@ -59,8 +57,6 @@ AI and ML engineering student focusing on backend systems, automation, and pract
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeet%20Vasani-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JeetVasani)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jeetvasani.netlify.app-black?logo=vercel&logoColor=white)](https://jeetvasani.netlify.app)
-
-[![GitHub](https://img.shields.io/badge/GitHub-JeetVasani-black?logo=github&logoColor=white)](https://github.com/JeetVasani)
 
 ---
 
