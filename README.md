@@ -65,6 +65,7 @@ AI and ML engineering student focusing on backend systems, automation, and pract
 ---
 
 ## Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JeetVasani&show_icons=true&cache_bust=1)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JeetVasani&show_icons=true)
+
 
 
